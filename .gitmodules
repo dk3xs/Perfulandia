@@ -1,0 +1,30 @@
+[submodule "apivendedor"]
+	path = apivendedor
+	url = https://github.com/benjipro1/apivendedor.git
+[submodule "apigateway"]
+	path = apigateway
+	url = https://github.com/benjipro1/apigateway.git
+[submodule "apisoporte"]
+	path = apisoporte
+	url = https://github.com/benjipro1/apisoporte.git
+[submodule "apiventa"]
+	path = apiventa
+	url = https://github.com/benjipro1/apiventa.git
+[submodule "apireporte"]
+	path = apireporte
+	url = https://github.com/benjipro1/apireporte.git
+[submodule "apiproducto"]
+	path = apiproducto
+	url = https://github.com/benjipro1/apiproducto.git
+[submodule "apiinventario"]
+	path = apiinventario
+	url = https://github.com/benjipro1/apiinventario.git
+[submodule "apicliente"]
+	path = apicliente
+	url = https://github.com/benjipro1/apicliente.git
+[submodule "apiauth"]
+	path = apiauth
+	url = https://github.com/benjipro1/apiauth.git
+[submodule "apienvio"]
+	path = apienvio
+	url = https://github.com/benjipro1/apienvio.git
